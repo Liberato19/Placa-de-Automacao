@@ -43,9 +43,6 @@ Assim que o MQTT estiver configurado corretamente, o dispositivo deve ser detect
 
 Com a integração concluída, os botões de controle dos disjuntores podem ser adicionados à **dashboard** do Home Assistant. Isso permite o controle direto dos disjuntores com apenas um clique.
 
-### Funcionamento na Dashboard
-![Funcionamento](#)
-
 ---
 
 ## Requisitos
@@ -85,22 +82,5 @@ Com a integração concluída, os botões de controle dos disjuntores podem ser 
 
 ---
 
-## Contribuição
-Contribuições são bem-vindas! Caso tenha melhorias ou ajustes, sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
-
----
-
 ## Licença
 Este projeto está licenciado sob a **MIT License**.
-
----
-
-## Contato
-Para dúvidas ou suporte, entre em contato:
-- **Nome:** [Seu Nome]
-- **E-mail:** [seuemail@email.com]
-- **LinkedIn/GitHub:** [Seu Perfil]
-
----
-
-**Desenvolvido com ❤️ para automação residencial!**
