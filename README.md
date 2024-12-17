@@ -43,6 +43,12 @@ Assim que o MQTT estiver configurado corretamente, o dispositivo deve ser detect
 
 Com a integração concluída, os botões de controle dos disjuntores podem ser adicionados à **dashboard** do Home Assistant. Isso permite o controle direto dos disjuntores com apenas um clique.
 
+### Planta Integrada
+![Planta do Projeto](Assets/Planta.png)
+
+### Botões de Controle
+![Botões de Controle](Assets/Botões.png)
+
 ---
 
 ## Requisitos
